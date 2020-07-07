@@ -1,0 +1,6 @@
+<?php
+// Fill in your db values and remove .template
+define("DB_NAME","");
+define("DB_PASSWORD","");
+define("DB_HOST","");
+define("DB_USER","");
