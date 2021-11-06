@@ -1,2 +1,3 @@
-config.php
+backend/config.php
 .vscode
+vendor
